@@ -10,13 +10,6 @@ int main() {
     cout << "What is your Student ID? " <<" " << endl;
     cin >> studentId;   
     cout << "Your ID is" << " "<< studentId << endl;
-    
-    
-  
-    
-    
-    
-    
  
 string name; 
  
@@ -60,11 +53,6 @@ cout<<"Midterm: "<<midterm_grade<<endl;
 cout<<"Final: "<<final_grade<<endl;
  
 cout<<"Last score: "<<last_score<<endl;
- 
-
- 
-
-
  
 cout<<"*\n**\n***\n**\n*"<<endl;
  
